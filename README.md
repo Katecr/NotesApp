@@ -7,12 +7,14 @@ Notes app to reinforce knowledge of javascript, node, json.
 Cloning this project requires having previously
 
 - Node.js v14.15.4
+- npm init
+- npm install
 
 ## Installation
 
 The libraries used in this project are:
 
-1. Lorem
+1. lorem
 
 ## Preview
 

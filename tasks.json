@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Reclutar equipo de astronautas",
+    "state": "completed"
+  },
+  {
+    "title": "Compra de suministros y naves espaciales",
+    "state": "progress"
+  },
+  {
+    "title": "Diseñar bandera para colocar en la luna",
+    "state": "completed"
+  },
+  {
+    "title": "Organizar sesión de entrenamiento antigravedad",
+    "state": "pending"
+  },
+  {
+    "title": "Notificar a la prensa el día y la hora del lanzamiento",
+    "state": "pending"
+  },
+  {
+    "title": "Planear un video viral para filmar en el espacio",
+    "state": "progress"
+  },
+  {
+    "title": "Ejecutar la comprobación de seguridad de la nave espacial",
+    "state": "pending"
+  },
+  {
+    "title": "Aterrizar en la luna y celebrar",
+    "state": "pending"
+  }
+]
