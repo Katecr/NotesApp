@@ -7,11 +7,7 @@ if (process.argv.length < 3) {
   let option = process.argv[2]; //the parameter sent is located in position 3 and is assigned to a variable
   switch (option) {
     case "listar":
-      fs.readFile(__dirname + "/tasks.json", "utf-8", (err, data) => {
-        if (err) throw err;
-        let task = JSON.parse(data);
-        console.log(task);
-      });
+      require("./taskFunctions");
       break;
     default:
       console.log("No entiendo qué quieres hacer.");
