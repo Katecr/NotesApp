@@ -1,0 +1,19 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "Notes app to reinforce knowledge of javascript, node, json.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katecr/NotesApp.git"
+  },
+  "author": "Kate Castaño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katecr/NotesApp/issues"
+  },
+  "homepage": "https://github.com/Katecr/NotesApp#readme"
+}
